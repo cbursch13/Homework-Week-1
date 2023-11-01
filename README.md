@@ -2,17 +2,11 @@
 
 ## Description
 
-For this homework assignment, I went into the source code for the Horiseon website and updated the div & span elements to read as semantic HTML elements. I also went ahead and updated the CSS tags to be nav tags instead of div tags to follow semantic HTML. I also updated the images to include alt descriptions. Lastly, I update the title element to provide a description of the webpage.
+For this homework assignment, I went into the source code for the Horiseon website and updated the div & span elements to read as semantic HTML elements. I also went ahead and updated the CSS tags to be nav tags instead of div tags to follow semantic HTML. I also updated the images to include alt descriptions and cleaned up the CSS sheet to combine the id class selectors that had the same styling. Lastly, I updated the title element to provide a description of the webpage.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Screenshot](assets/images/screenshot.png)
 
 ## Credits
 
@@ -21,6 +15,7 @@ Stephen Rossetti
 
 
 ## License
+
 MIT License
 
 Copyright (c) [2023] [Cameron Bursch]
